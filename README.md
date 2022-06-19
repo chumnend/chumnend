@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chumnend
+- 👋 Hi, My Name is Nicholas
 - 👀 I’m interested in Web Development and DevOps
-- 🌱 I’m currently learning Typescript and GraphQL
+- 🌱 I’m currently more learning Typescript and GraphQL
 - 💞️ I’m looking to collaborate on anything!
