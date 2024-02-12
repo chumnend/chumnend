@@ -1,3 +1,3 @@
 Hello there 👋,
 
-My name is Nicholas and I am a software developer based in Canada. Currently I spend most of my time in software land as a fullstack web developer, working with Javascript in the frontend and Python in the backend. I also enjoy messing around with Go in side projects. Feel free to reach out to me to collaborate on anything.
+My name is Nicholas and I am a fullstack software developer based near Toronto 🇨🇦. I develop primarily in Javascript and Python, but do like to dabble in Golang and C++ once in a while. Feel free to reach out to me to collaborate on anything.
